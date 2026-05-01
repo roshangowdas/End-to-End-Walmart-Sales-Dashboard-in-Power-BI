@@ -42,7 +42,7 @@ To create a professional, interactive dashboard for business insights and decisi
 ## 📸 Output
 
 ### Page 1
-![Page 1](lab1output1.jpeg)
+![Page 1](lab1output1.png)
 
 ### Page 2
-![Page 2](lab1outpu2.jpeg)
+![Page 2](lab1outpu2.png)
